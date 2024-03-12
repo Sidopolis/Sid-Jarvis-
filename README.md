@@ -1,9 +1,5 @@
 # JARVIS
 
-<p align="center">
-  <img src="media/cqb_conv.png" alt="JARVIS helping me choose a firearm" width="100%"/>
-</p>
-
 Your own voice personal assistant: Voice to Text to LLM to Speech, displayed in a web interface.
 
 ## How it works
